@@ -1,0 +1,11 @@
+.not-anwer {
+    color: red;
+}
+.example-points { 
+    font-size: 20px;
+ }
+.example-points span {
+    font-size: 25px;
+    font-weight: 700;
+    margin-left: 5px;
+}

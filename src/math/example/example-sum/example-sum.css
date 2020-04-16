@@ -1,0 +1,51 @@
+.example .example-value::-webkit-outer-spin-button,
+.example .example-value::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}
+
+input[type='number'] {
+    -moz-appearance: textfield;
+}
+
+.example .example-text {
+    letter-spacing: 2px;
+    font-size: 25px;
+}
+
+.example .example-value {
+    font-size: 25px;
+    border: none;
+    border-bottom: 0.2px solid black;
+    padding: 0;
+    width: 30px;
+    font-weight: bold;
+}
+
+.example .example-answer {
+    font-size: 25px;
+    font-weight: bold;
+    color: #05fa79
+}
+
+.example .example-completed {
+    font-size: 25px;
+    padding: 0 20px;
+    color: #b4feb8;
+    font-weight: bold;
+}
+
+.example .example-image img {
+    width: 60px;
+    height: 50px;
+}
+
+.example .example-error {
+    font-size: 25px;
+    font-weight: bold;
+    color: #ff4f4f;
+    padding-left: 15px;
+}
+
+.example .example-points {
+    font-size: 25px;
+}
