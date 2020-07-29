@@ -8,7 +8,6 @@ import Math from '../math/math';
 const App = () => {
     return (
         <React.Fragment>
-            <Header />
             <Math />
         </React.Fragment>
     )
